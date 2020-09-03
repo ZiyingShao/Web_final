@@ -1,0 +1,38 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "this is the web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiyingShao/Webproject.git"
+  },
+  "author": "zyshzhjfr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZiyingShao/Webproject/issues"
+  },
+  "homepage": "https://github.com/ZiyingShao/Webproject#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.4",
+    "eslint": "^5.16.0",
+    "express": "^4.17.1",
+    "express-session": "^1.16.1",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "pug": "^2.0.3",
+    "sqlite": "^3.0.3",
+    "vue": "^2.6.10",
+    "vue-cli-plugin-element-ui": "^1.1.4",
+    "vue-material": "^1.0.0-beta-11",
+    "vue-router": "^3.0.6"
+  },
+  "devDependencies": {
+    "install-peers": "^1.0.3"
+  }
+}
